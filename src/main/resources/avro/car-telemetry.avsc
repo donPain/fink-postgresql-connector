@@ -1,0 +1,38 @@
+{
+  "type": "record",
+  "name": "CarTelemetry",
+  "namespace": "com.don.telemetry",
+  "fields": [
+    {
+      "name": "latitude",
+      "type": "double",
+      "doc": "The vehicle's latitude in decimal degrees"
+    },
+    {
+      "name": "longitude",
+      "type": "double",
+      "doc": "The vehicle's longitude in decimal degrees"
+    },
+    {
+      "name": "speed",
+      "type": "double",
+      "doc": "The current speed of the vehicle in km/h"
+    },
+    {
+      "name": "sensorTimestamp",
+      "type": {
+        "type": "long",
+        "logicalType": "timestamp-millis"
+      },
+      "doc": "The timestamp of the sensor reading in milliseconds since Unix epoch"
+    }
+  ,
+    {
+      "name": "plate",
+      "type": {
+        "type": "string"
+      },
+      "doc": "The plate of car"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+
+m	java:S117y"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ûùõú8ÂïÍÅ¸2
+s	java:S117–"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®•’ûÿÿÿÿ8ÃïÍÅ¸2
+s	java:S117–"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®•’ûÿÿÿÿ8ÃïÍÅ¸2
+f
+java:S2160"+Override the "equals" method in this class.(ì¨µrJ$804cd675-93a1-44de-9bba-d0879315ac29
+I
+java:S2160¡"+Override the "equals" method in this class.(¯¸å8èğÍÅ¸2
+X
+java:S6213È":Rename this variable to not match a restricted identifier.(¡Ç€ü8†ñÍÅ¸2
+p
+java:S1905Ù".Remove this unnecessary cast to "DatumWriter".(¹ÚÍèùÿÿÿÿJ$2d24311a-5b07-4446-88c3-59b2cbfa96b9
+k
+java:S1905â".Remove this unnecessary cast to "DatumReader".(êÎ›·J$521bd0ea-e40f-4b65-821f-88a24fe0cb08
+}
+java:S1128"ARemove this unused import 'org.apache.avro.generic.GenericArray'.(é¥œÿJ$06b26810-abfe-42c9-8f20-0cbf9f541ea9
+r
+java:S1128
+"6Remove this unused import 'org.apache.avro.util.Utf8'.(•®˜ÕJ$04e2b898-7b54-424f-b0f4-cb4849fba76c
